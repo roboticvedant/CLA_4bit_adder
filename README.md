@@ -18,7 +18,7 @@ This repository contains an optimized Register-Transfer Level (RTL) design of a 
    ```
    git clone https://github.com/roboticvedant/CLA_4bit_adder.git
    ```
-2. Add the `carry_lookahead_adder.v` file to your existing Verilog project.
+2. Add the `_4bit_adder.v` file to your existing Verilog project.
 
 ## Usage
 
